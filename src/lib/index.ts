@@ -12,4 +12,4 @@ export type { SetProperty } from './set-property.type';
 export type { UnionToObject } from './union-to-object.type';
 export type { UpdateProperty } from './update-property.type';
 // Namespace.
-export * from './typedly.namespace';
+// export * from './temp/typedly.namespace';

@@ -10,12 +10,9 @@ export type {
   KeyValueSchema,
   Keys,
   ObjectToUnion,
-  OnlyKeys,
+  PickKeys,
   RemoveProperty,
   SetProperty,
   UnionToObject,
   UpdateProperty,
 } from './lib';
-
-// Namespace.
-export * from './lib/typedly.namespace';
