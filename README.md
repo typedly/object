@@ -3,7 +3,6 @@
   <img
     src="https://avatars.githubusercontent.com/u/189665258?s=150&u=712e292bae048947d1f7d2020d7d38875c40e63a&v=4"
     title="@typedly/object"
-    style="float:left; margin-right: 10px;"
   />
 </a>
 
